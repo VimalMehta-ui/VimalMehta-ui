@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'M Vimal Mehta
 
-<!-# 👋 Hello there! I'm [Vimal Mehta]
+<marquee><!-# 👋 Hello there! I'm [Vimal Mehta]</marquee>
 
 ## 📊 Business & Data Analyst | Insight-Driven Problem Solver
 

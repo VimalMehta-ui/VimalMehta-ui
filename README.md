@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Vimal Mehta</h1>
-<h3 align="center">Business & Data Analyst | Insight Architect | Storytelling with Data</h3>
+<h3 align="center">Business & Data Analytics | Data Enthusiast | Insight Architect  </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Turning+data+into+decisions;Crafting+insights+with+Power+BI;%F0%9F%93%9AAlways+learning+and+exploring+%F0%9F%8C%8D" alt="Typing SVG" />
@@ -60,6 +60,8 @@
 ---
 
 ### 📫 Connect with Me
+
+<img align="center" alt="coding" width="800" src="https://i.pinimg.com/736x/84/f9/06/84f906dce523e7c75620d1fa5231a3a8.jpg"/>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:you@email.com)

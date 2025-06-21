@@ -1,3 +1,4 @@
+![logo](https://github.com/VimalMehta-ui/VimalMehta-ui/commit/0b25220e077480765b0ae6c09cfec070525d78bc)
 <h1 align="center">Hi 👋, I'm Vimal Mehta</h1>
 <h3 align="center">Business & Data Analyst | Insight Architect | Storytelling with Data</h3>
 

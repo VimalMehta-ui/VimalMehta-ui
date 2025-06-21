@@ -25,7 +25,7 @@ Welcome to my GitHub! I specialize in transforming data into clarity and strateg
 
 ### 📬 Let’s Connect
 I'm always excited to collaborate, learn, and explore the endless possibilities within data.  
-Reach me via [LinkedIn](https://linkedin.com/in/your-profile) or shoot me an email at [you@email.com].
+Reach me via [LinkedIn](https://www.linkedin.com/in/%20vimal-m-539216126) or shoot me an email at [vimalm546@gmail.com].
 
 ---
 

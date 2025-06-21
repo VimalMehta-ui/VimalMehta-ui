@@ -61,7 +61,7 @@
 
 ### 📫 Connect with Me
 
-<img align="center" alt="coding" width="800" src="https://i.pinimg.com/736x/84/f9/06/84f906dce523e7c75620d1fa5231a3a8.jpg"/>
+<img align="center" alt="coding" width="600" src="https://i.pinimg.com/736x/84/f9/06/84f906dce523e7c75620d1fa5231a3a8.jpg"/>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:you@email.com)

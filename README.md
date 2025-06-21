@@ -1,45 +1,61 @@
-## Hi there 👋 I'M Vimal Mehta
+<h1 align="center">Hi 👋, I'm Vimal Mehta</h1>
+<h3 align="center">Business & Data Analyst | Insight Architect | Storytelling with Data</h3>
 
-<marquee><!-# 👋 Hello there! I'm [Vimal Mehta]</marquee>
-
-## 📊 Business & Data Analyst | Insight-Driven Problem Solver
-
-Welcome to my GitHub! I specialize in transforming data into clarity and strategy. My work bridges the gap between complex analytics and real-world business outcomes.
-
-### 🔧 Tools & Technologies
-- **Languages**:  MYSQL  
-- **BI & Visualization**: Power BI, Tableau, Excel  
-- **Data Wrangling & Analysis**: Pandas, NumPy, scikit-learn  
-- **Workflow**: Git/GitHub, Jupyter Notebooks, VS Code
-
-### 💼 What I Do
-- Craft interactive dashboards that bring data stories to life  
-- Perform in-depth analysis to uncover actionable insights  
-- Support business strategy with predictive models and KPIs  
-- Automate reporting and streamline analytics workflows
-
-### 📂 Featured Projects
-- **Sales Forecasting Model** – Built a regression model to predict monthly sales trends with 90% accuracy.  
-- **Customer Segmentation** – Applied clustering techniques to enhance marketing personalization.  
-- **Financial Dashboard (Power BI)** – Visualized key metrics for stakeholders to enable data-informed decisions.
-
-### 📬 Let’s Connect
-I'm always excited to collaborate, learn, and explore the endless possibilities within data.  
-Reach me via [LinkedIn][(https://www.linkedin.com/in/%20vimal-m-539216126](https://www.linkedin.com/in/%20vimal-m-539216126)) or shoot me an email at [vimalm546@gmail.com].
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Turning+data+into+decisions;Crafting+insights+with+Python+%26+Power+BI;Always+learning+%F0%9F%93%9A+and+exploring+%F0%9F%8C%8D" alt="Typing SVG" />
+</p>
 
 ---
 
-*“Without data, you're just another person with an opinion.” – W. Edwards Deming*-
-**VimalMehta-ui/VimalMehta-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 About Me
 
-Here are some ideas to get you started:
+- 🔍 Passionate about solving business problems with data  
+- 📊 Skilled in **Python**, **SQL**, **Power BI**, and **Excel**  
+- 🤖 Exploring **machine learning** and **data storytelling**  
+- ☕ Fueled by curiosity and caffeine
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📂 Featured Projects
+
+- 🧠 **Customer Insights Dashboard** – Power BI dashboard for executive decision-making  
+- 📈 **Sales Forecasting Model** – Time-series model predicting monthly revenue  
+- 🧹 **Excel Automation Scripts** – Automated reporting using Python + Excel
+
+---
+
+### 🌱 Currently Learning
+
+- Advanced DAX for Power BI  
+- Time-series forecasting  
+- Data storytelling with visuals
+
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:you@email.com)
+
+---
+
+> *“Without data, you're just another person with an opinion.” – W. Edwards Deming*

@@ -7,6 +7,10 @@
 
 ---
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif ">
+
+---
+
 ### 🧠 About Me
 
 - 🔍 Passionate about solving business problems with data  
@@ -17,7 +21,6 @@
 ---
 
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif ">
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)

@@ -7,11 +7,6 @@
 
 ---
 
-<img align="right" alt="Coding" width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmdazfar2%2FCool-GIFs-For-GitHub&psig=AOvVaw2ibw-3b7cc0DyyL4EUb0J-&ust=1750582683676000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjp8-mSgo4DFQAAAAAdAAAAABAJ"/>
-
-
-
-
 ### 🧠 About Me
 
 - 🔍 Passionate about solving business problems with data  
@@ -20,6 +15,9 @@
 - ☕ Fueled by curiosity and caffeine
 
 ---
+
+
+<img align="right" alt="Coding" width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmdazfar2%2FCool-GIFs-For-GitHub&psig=AOvVaw2ibw-3b7cc0DyyL4EUb0J-&ust=1750582683676000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjp8-mSgo4DFQAAAAAdAAAAABAJ"/>
 
 
 

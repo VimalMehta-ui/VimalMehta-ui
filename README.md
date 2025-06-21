@@ -2,7 +2,7 @@
 <h3 align="center">Business & Data Analyst | Insight Architect | Storytelling with Data</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Turning+data+into+decisions;Crafting+insights %26+Power+BI;Always+learning+%F0%9F%93%9A+and+exploring+%F0%9F%8C%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Turning+data+into+decisions;Crafting+insights+with+Python+%26+Power+BI;Always+learning+%F0%9F%93%9A+and+exploring+%F0%9F%8C%8D" alt="Typing SVG" />
 </p>
 
 ---

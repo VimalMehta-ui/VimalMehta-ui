@@ -1,4 +1,4 @@
-![logo](https://github.com/VimalMehta-ui/VimalMehta-ui/commit/0b25220e077480765b0ae6c09cfec070525d78bc)
+![logo](https://github.com/VimalMehta-ui/VimalMehta-ui/blob/main/Dark%20Blue%20Dotted%20Business%20Profile%20LinkedIn%20Article%20Cover%20Image.png)
 
 
 <h1 align="center">Hi 👋, I'm Vimal Mehta</h1>

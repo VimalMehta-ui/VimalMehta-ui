@@ -17,7 +17,7 @@
 ### 🧠 About Me
 
 - 🔍 Passionate about solving business problems with data  
-- 📊 Skilled in **Python**, **MySQL**, **Power BI**, and **Ms-Excel**  
+- 📊 Skilled in  **MySQL**, **Power BI**, and **Ms-Excel**  
 - 🤖 Exploring **Data Visualization** and **Data Science**  
 - ☕ Fueled by curiosity and caffeine
 
